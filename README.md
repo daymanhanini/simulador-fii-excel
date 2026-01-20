@@ -41,11 +41,10 @@ A planilha permite simular aportes mensais, tempo de investimento, rendimento me
 
 ## Prints do projeto
 
-### Simulador
-![Simulador](imagem%20print/imprimir%20simulador.png)
+![Simulador](imagem%20print/print%20simulador.png)
+![Evolução](imagem%20print/print%20evolu%C3%A7%C3%A3o.png)
 
-### Evolução do patrimônio
-![Evolução](imagem%20print/imprimir%20evolução.png)
+
 
 ---
 
